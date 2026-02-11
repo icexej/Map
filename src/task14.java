@@ -8,6 +8,6 @@ public class task14 {
         for (String w : words) {
             groups.computeIfAbsent(w.length(), k -> new ArrayList<>()).add(w);
         }
-        System.out.println("Группировка по длине: " + groups);
+        System.out.println("Groups: " + groups);
     }
 }
