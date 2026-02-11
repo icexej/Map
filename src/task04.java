@@ -1,6 +1,6 @@
 import java.util.HashMap;
 
-public class task4 {
+public class task04 {
     public static void main(String[] args) {
         HashMap<String, Integer> scores = new HashMap<>();
         scores.put("Azat", 92);
