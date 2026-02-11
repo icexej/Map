@@ -9,3 +9,4 @@ public class task3 {
         System.out.println("Before: " + oldScore);
         System.out.println("After: " + scores);
     }
+}
